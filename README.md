@@ -15,7 +15,7 @@ Completed user stories:
  * [x] Optional: Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
  
 
-![Video Walkthrough](anim_rotten_tomatoes.gif)
+![Video Walkthrough](prework.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
