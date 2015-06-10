@@ -16,7 +16,16 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    [self displayKeyboard];
     // Do any additional setup after loading the view, typically from a nib.
+}
+
+- (void)displayKeyboard {
+    [self.billAmount becomeFirstResponder];
+}
+
+- (void)dismissKeyboard{
+    [self.billAmount resignFirstResponder];
 }
 
 - (void)didReceiveMemoryWarning {
